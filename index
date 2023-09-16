@@ -1,8 +1,18 @@
 <html>
-<head>
-<title> TEST WEB </title>
-</head>
-<body>
-<h1>TEST 1</h1>
-</body>
+    <head>
+        <title> MY WEBSITE </title>
+        <style>
+            body {
+                background-color:bisque ;
+                text-align:center ;
+                padding:200px ;
+            }
+            h1 {
+                font-size:60 ;
+                color:white ;
+            }
+    </head>
+    <body>
+        <h1>TEST 1</h1>
+    </body>
 </html>
